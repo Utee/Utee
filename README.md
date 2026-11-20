@@ -8,7 +8,7 @@
 </p>
 
 - 🏢 CTO at **[Ciel Tech Ltd](https://vibegarage.app)** — building **VibeGarage**, a music platform for independent artists
-- 🛡️ Built **[PathGuard](https://pathguard-three.vercel.app/)** — a free tool that verifies crypto addresses before you send, after I lost funds to a bad address myself
+- 🛡️ Built **[PathGuard](https://pathguard.cieltech.org/)** — a free tool that verifies crypto addresses before you send, after I lost funds to a bad address myself
 - ⚽ Run **Castle Predictions** on Telegram (**[@UcastleBot](https://t.me/UcastleBot)**) — a football prediction bot powered by a Poisson goals model
 - 🐍 Core stack: **Python** (FastAPI, Django, Flask), **React/Vite**, **Supabase**, **Cloudflare Workers**
 - 🔐 Background in **cybersecurity and digital forensics**, ethical hacking (CEH V10)
